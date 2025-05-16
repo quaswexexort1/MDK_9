@@ -1,7 +1,7 @@
-﻿
-public class Program
+
+class Program
 {
-    public static void Main()
+    static void Main()
     {
         //исходная строка символов
         string input = "a&b&c&d&e";
